@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EasyGuide</string>
+    <string name="splashTitle">Welcome to Easy Guide</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_welcome">Welcome back!</string>
+    <string name="login_title">Let\'s login for explore continues</string>
+</resources>
