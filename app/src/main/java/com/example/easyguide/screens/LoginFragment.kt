@@ -1,4 +1,4 @@
-package com.example.easyguide.screens
+package com.example.g.screens
 
 import android.os.Bundle
 import android.view.LayoutInflater
